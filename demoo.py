@@ -1,4 +1,4 @@
-class TestPrime(unittest.TestCase):
+gitclass TestPrime(unittest.TestCase):
     def test_two(self):
         self.assertTrue(is_prime(2))
     def test_five(self):
